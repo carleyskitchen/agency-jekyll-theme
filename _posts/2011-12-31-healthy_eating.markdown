@@ -1,11 +1,11 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Healthy Eating
+subtitle: Graphic Design
 layout: default
-modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+modal-id: 6
+date: 2014-07-15
+img: full_fridge.jpeg
+thumbnail: full_fridge.jpeg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

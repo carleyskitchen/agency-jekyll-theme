@@ -1,11 +1,11 @@
 ---
-title: Escape
+title: Instruction and Education
 subtitle: Website Design
 layout: default
-modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+modal-id: 5
+date: 2014-07-14
+img: full_fridge.jpeg
+thumbnail: full_fridge.jpeg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

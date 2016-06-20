@@ -1,11 +1,11 @@
 ---
-title: Startup Framework
+title: Group Programs
 subtitle: Website Design
 layout: default
-modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+modal-id: 2
+date: 2014-07-17
+img: full_fridge.jpeg
+thumbnail: full_fridge.jpeg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
