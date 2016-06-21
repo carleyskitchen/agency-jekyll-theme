@@ -1,9 +1,9 @@
 ---
-title: Fitness
+title: Something Else
 subtitle: Website Design
 layout: default
-modal-id: 3
-date: 2014-07-16
+modal-id: 4
+date: 2014-07-25
 img: vegetables.jpeg
 thumbnail: vegetables.jpeg
 alt: image-alt

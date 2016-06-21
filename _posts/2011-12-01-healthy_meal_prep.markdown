@@ -1,9 +1,9 @@
 ---
-title: Instruction and Education
-subtitle: Website Design
+title: Healthy Meal Preparation
+subtitle: Graphic Design
 layout: default
-modal-id: 5
-date: 2014-07-14
+modal-id: 6
+date: 2014-07-30
 img: full_fridge.jpeg
 thumbnail: full_fridge.jpeg
 alt: image-alt

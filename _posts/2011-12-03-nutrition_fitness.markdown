@@ -1,9 +1,9 @@
 ---
-title: Coaching
+title: Nutrition and Fitness Coaching
 subtitle: Website Design
 layout: default
-modal-id: 4
-date: 2014-07-15
+modal-id: 3
+date: 2014-07-28
 img: vegetables.jpeg
 thumbnail: vegetables.jpeg
 alt: image-alt

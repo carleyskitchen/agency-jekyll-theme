@@ -1,11 +1,11 @@
 ---
-title: Group Programs
+title: Products
 subtitle: Website Design
 layout: default
-modal-id: 2
-date: 2014-07-17
-img: full_fridge.jpeg
-thumbnail: full_fridge.jpeg
+modal-id: 1
+date: 2014-07-27
+img: vegetables.jpeg
+thumbnail: vegetables.jpeg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

@@ -1,9 +1,9 @@
 ---
-title: Healthy Eating
-subtitle: Graphic Design
+title: Education and Instruction
+subtitle: Website Design
 layout: default
-modal-id: 6
-date: 2014-07-15
+modal-id: 5
+date: 2014-07-29
 img: full_fridge.jpeg
 thumbnail: full_fridge.jpeg
 alt: image-alt
