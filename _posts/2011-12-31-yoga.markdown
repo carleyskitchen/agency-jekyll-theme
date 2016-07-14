@@ -1,0 +1,19 @@
+---
+title: Yoga
+subtitle: Support all your wellness endeavors through a personalized practice
+layout: default
+modal-id: 4
+date: 2014-07-25
+img: yoga.jpg
+thumbnail: yoga.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: "<p>The benefits of this ancient practice are numerous and widespread, supporting a variety of physiological processes that complement any health and wellness program. Work closely with a certified instructor to develop a routine that is catered to your personal health and wellness goals, whether they be improved cardiovascular fitness and increased strength, or stress reduction and detoxification. We ensure that your practice continues to evolve along with your fitness level and lifestyle needs.</p>
+
+<p>Private lessons 55$/session
+Group lessons 60$/session, unlimited participation (ie 2 people for 30$ each, 10 people for 6$ each, etc.)</p>"
+
+---
+

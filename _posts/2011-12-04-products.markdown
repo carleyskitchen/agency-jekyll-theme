@@ -1,15 +1,41 @@
 ---
 title: Products
-subtitle: Website Design
+subtitle: Cultured Foods for Sale. Organic, raw, and made in small batches to ensure potency and quality
 layout: default
 modal-id: 1
 date: 2014-07-27
-img: vegetables.jpeg
-thumbnail: vegetables.jpeg
+img: foodstuff.jpg
+thumbnail: foodstuff.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
+
+<h3>An Introduction to Food as Medicine
+Informational Menu</h3>
+
+<p>Probiotics are an essential component of maintaining a healthy body. Our bodies actually contain more microbial than human cells, with bacteria outnumbering human cells 10 to 1! The bacteria that naturally reside in us perform a variety of essential functions in the body. They ensure the proliferation of healthy gut bacteria by keeping undesirable yeast, fungus, and foreign intruders at bay, metabolize vitamins B and K as well as fatty acids, maintain a healthy immune system, facilitate digestion and nutrient absorption, and protect the lining of the GI tract. These symbiotic organisms are a cornerstone of human health and allow us to live long, healthy lives by minimizing the incidence of disease and chronic conditions.</p>
+
+<p>Unfortunately, our modern diet and exposure to a variety of environmental toxins often damages and diminishes our gut flora. Many drugstores and health retailers sell a variety of probiotics in pill or liquid form, however their potency varies significantly and often diminishes drastically while sitting on the shelf. Thus, despite their expense, these products are often ineffective at encouraging the growth of healthy bacteria in the GI tract.</p>
+
+<p>So how can you get these beneficial bacterial buddies back in your belly where they belong? By consuming delicious Carley’s Kitchen Cultured Products!</p>
+
+<p>These homemade probiotics are organic, raw, and made in small batches to ensure potency and quality. Each food has unique medicinal benefits and is a delicious addition to any meal or snack! They also serve as healthy alternatives to traditional snack foods, and often help minimize cravings for less-nutritious foods</p>
+
+<h4>Cultured Vegetables 10$</h4>
+<p>Kimchi-style fermented cabbage available in original or spicy, loaded with lactobillus, acidophilus, bifidus, and many more strains of beneficial bacteria. Delicious on any savory food! Try on salads, soups, sandwiches, or  as a side to any meal. Scoop it up with tortilla chips, or just eat it straight out of the jar!</p>
+
+<h4>Raw Dairy Kefir 15$</h4>
+<p>Kefir contains more probiotic strains than other cultured dairy products like yogurt and cheese. It has antibacterial properties and is an excellent source of protein to supplement plant-based diets. Reinforces the natural lining of the GI tract, helping to prevent large particles from penetrating the intestine and causing an inflammatory or immune response. Naturally contains enzymes that break down lactose, making it a better option for those who are less-tolerant of dairy. Available in cow, goat, or sheep!</p>
+
+<h4>Coconut Kefir 20$</h4>
+<p>A sparkling, tangy, and slightly sweet beverage, delicious all by itself. Enjoy all the benefits of coconut water minus the sugar (which is gobbled up during fermentation). Promotes proliferation of intestinal flora, boosts energy, and is a healthy and low-calorie source of probiotics.</p>
+
+<h4>Coconut Cheese 15$</h4>
+<p>Blended to the consistency of cottage cheese or yogurt, this fermented young coconut meat is tangy and delicious, serving as an excellent dessert alternative or complement to any meal. Coconut is a natural anti-fungal and thus works in tandem with probiotics to eliminate pathogens from the GI tract. It provides healthy fats, is an excellent source of energy, and supports healthy skin, hair, and nails.</p>
+
+<h4>Bone Broth 15$</h4>
+<p>Bone broth is rich in minerals that support the immune system and contains healing compounds like collagen, glutamine, glycine and proline. The collagen in bone broth helps maintain a healthy gut lining and reduce intestinal inflammation, while promoting the health of your integumentary system. It is an essential food for anyone healing from illness or suffering from chronic digestive issues. Available in chicken or beef!</p>
+
