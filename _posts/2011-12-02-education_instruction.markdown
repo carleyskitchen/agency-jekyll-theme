@@ -15,8 +15,8 @@ description: "<h3>Healthy Cooking Education and Instruction</h3>
 
 <p>199$ for two hours of instruction, plus the cost of food. Clients may use the personal shopping service or elect to provide their own food. Private and group lesson options available; receive individual attention or include friends and family and save! This course is an excellent activity for birthday parties, bridal showers, corporate events, or as a fun activity for health-conscious friends and family. Include up to four students per session for no additional charge (49$ additional charge per person for groups larger than five).</p>
 
-<p>Medicinal Food Preparation and Instruction
-Learn about the benefits of cultured cuisine and how to make your very own probiotic treats! Have you ever wanted to learn how to make your own kimchi but were not sure how? This course is a perfect introduction and confidence-builder for individuals seeking the benefits of fresh, raw, homemade medicinal foods. Choose from a variety of cultured options, or receive instruction for multiple items and save!</p>
+<h3>Medicinal Food Preparation and Instruction</h3>
+<p>Learn about the benefits of cultured cuisine and how to make your very own probiotic treats! Have you ever wanted to learn how to make your own kimchi but were not sure how? This course is a perfect introduction and confidence-builder for individuals seeking the benefits of fresh, raw, homemade medicinal foods. Choose from a variety of cultured options, or receive instruction for multiple items and save!</p>
 
 <p>100$ per item, includes food, equipment, and one hour of instruction (Choose One):</p>
 <ul class='basic-list'>
@@ -37,8 +37,9 @@ Learn about the benefits of cultured cuisine and how to make your very own probi
 <p>An educational tool for clients interested in learning how to shop for health. You will receive expert guidance from an industry professional highlighting healthier menu options and learn how to make educated decisions about product choices.</p>
 <p>60$ for a 1 hour tour of your favorite grocery store. Clients may receive individual attention or bring friends or family wishing to meal plan together and save! Include up to four people per group for no additional charge.</p>
 
-<p>*15$ additional charge per person for groups larger than five</br>
-*This serves as an excellent team-building activity for health-conscious companies or as a fun excursion for friends with common health and wellness goals</p>"
+<p>
+  *15$ additional charge per person for groups larger than five<br>*Ingredients are organic, local, fresh, and seasonal whenever possible.</br>
+  *This serves as an excellent team-building activity for health-conscious companies or as a fun excursion for friends with common health and wellness goals</p>"
 
 ---
 
