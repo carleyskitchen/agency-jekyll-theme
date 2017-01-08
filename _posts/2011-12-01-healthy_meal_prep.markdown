@@ -39,8 +39,8 @@ client: Start Bootstrap
 
 <p>Meal plans can be vegetarian upon request, and are capable of suiting any diet.</p>
 
-<p>Cost includes a full day of food, couple or group rates are available upon request.</p>
-<p><b>3 Days: $299, 5 Days: $399, 7 Days $499*</b><br><sub>*regular customers receive discounted meal prices through our loyalty program</sub></p>
+<p>Cost includes a full day of food for one person, additional people can be added to the plan for $50 each.</p>
+<p><b>3 Days: $200, 5 Days: $300, 7 Days $400*</b><br><sub>*regular customers receive discounted meal prices through our loyalty program</sub></p>
 <!-- <table class="table table-bordered">
   <tr>
     <td>3 Day </td>
