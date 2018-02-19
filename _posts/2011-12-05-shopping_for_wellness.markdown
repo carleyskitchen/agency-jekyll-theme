@@ -11,5 +11,5 @@ project-date: April 2014
 client: Start Bootstrap
 category: Web Development
 description: "Available a-la-carte or as an additional service provided for meal preparation.
-60$ Flat rate plus food cost for customers choosing to add specialty food items to their meal plans."
+50$ per hour plus food cost for customers choosing to add specialty food items to their meal plans."
 ---

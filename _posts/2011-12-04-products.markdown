@@ -24,18 +24,20 @@ Informational Menu</h3>
 
 <p>These homemade probiotics are organic, raw, and made in small batches to ensure potency and quality. Each food has unique medicinal benefits and is a delicious addition to any meal or snack! They also serve as healthy alternatives to traditional snack foods, and often help minimize cravings for less-nutritious foods. Ingredients are organic, local, fresh, and seasonal whenever possible.</p>
 
-<h4>Cultured Vegetables 10$</h4>
+<p><b>All products offered at 50$/hour for prep time, plus the cost of food.</b></p>
+
+<h4>Cultured Vegetables</h4>
 <p>Kimchi-style fermented cabbage available in original or spicy, loaded with lactobillus, acidophilus, bifidus, and many more strains of beneficial bacteria. Delicious on any savory food! Try on salads, soups, sandwiches, or  as a side to any meal. Scoop it up with tortilla chips, or just eat it straight out of the jar!</p>
 
-<h4>Raw Dairy Kefir 15$</h4>
+<h4>Raw Dairy Kefir</h4>
 <p>Kefir contains more probiotic strains than other cultured dairy products like yogurt and cheese. It has antibacterial properties and is an excellent source of protein to supplement plant-based diets. Reinforces the natural lining of the GI tract, helping to prevent large particles from penetrating the intestine and causing an inflammatory or immune response. Naturally contains enzymes that break down lactose, making it a better option for those who are less-tolerant of dairy. Available in cow, goat, or sheep!</p>
 
-<h4>Coconut Kefir 20$</h4>
+<h4>Coconut Kefir</h4>
 <p>A sparkling, tangy, and slightly sweet beverage, delicious all by itself. Enjoy all the benefits of coconut water minus the sugar (which is gobbled up during fermentation). Promotes proliferation of intestinal flora, boosts energy, and is a healthy and low-calorie source of probiotics.</p>
 
-<h4>Coconut Cheese 15$</h4>
+<h4>Coconut Cheese</h4>
 <p>Blended to the consistency of cottage cheese or yogurt, this fermented young coconut meat is tangy and delicious, serving as an excellent dessert alternative or complement to any meal. Coconut is a natural anti-fungal and thus works in tandem with probiotics to eliminate pathogens from the GI tract. It provides healthy fats, is an excellent source of energy, and supports healthy skin, hair, and nails.</p>
 
-<h4>Bone Broth 15$</h4>
+<h4>Bone Broth</h4>
 <p>Bone broth is rich in minerals that support the immune system and contains healing compounds like collagen, glutamine, glycine and proline. The collagen in bone broth helps maintain a healthy gut lining and reduce intestinal inflammation, while promoting the health of your integumentary system. It is an essential food for anyone healing from illness or suffering from chronic digestive issues. Available in chicken or beef!</p>
 

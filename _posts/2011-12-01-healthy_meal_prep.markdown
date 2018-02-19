@@ -39,9 +39,12 @@ client: Start Bootstrap
 
 <p>Meal plans can be vegetarian upon request, and are capable of suiting any diet.</p>
 
-<p>Cost includes a full day of food for one person, additional people can be added to the plan for $50 each.</p>
+<p><b>50$/hour plus the cost of food.</b></p>
+
+{% comment %}
+<!--<p>Cost includes a full day of food for one person, additional people can be added to the plan for $50 each.</p>
 <p><b>3 Days: $200, 5 Days: $300, 7 Days $400*</b><br><sub>*regular customers receive discounted meal prices through our loyalty program</sub></p>
-<!-- <table class="table table-bordered">
+<table class="table table-bordered">
   <tr>
     <td>3 Day </td>
     <td>299$</td>
@@ -55,7 +58,10 @@ client: Start Bootstrap
     <td>499$</td>
   </tr>
 
-</table> -->
+</table>-->
+{% endcomment %}
 
 <p>Alternatively, mix up your routine once or twice a week through our personalized chef service. Enjoy a gourmet plant-based meal made in your own home. Treat yourself and your family or friends to a break from cooking without compromising your health goals.</p>
-<p><b>499$ For a four-course meal for a family of 5. 60$ for each additional individual.</b></p>
+{% comment %}<!--
+<p><b>499$ For a four-course meal for a family of 5. 60$ for each additional individual.</b></p>-->
+{% endcomment %}
