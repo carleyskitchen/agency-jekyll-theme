@@ -10,7 +10,9 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: "<h3>Nutrition Coaching</h3>
+description: "
+<p>M. S. Nutrition for Wellness, ACSM certified Exercise Physiologist and 200-hour Certified Yoga Instructor</p>
+<h3>Nutrition Coaching</h3>
 <p>Sponsorship for individuals who are working toward implementing a healthy and sustainable diet. This is achieved in different ways depending on the client, who will play the central role in determining the goals of sponsorship. Carley’s Kitchen supports a coaching model in which the client relies on their own intuition and experience while benefiting from information provided by the coach, as well as the support of a community. All clients will receive access to a network of individuals on their own paths to healing and wellness. This unique network allows clients to immerse themselves in an environment where their nutrition choices are understood, supported, and reinforced, leading to a much greater likelihood of success in achieving dietary goals.</p>
 
 <p><b>50$/hour</b></p>
