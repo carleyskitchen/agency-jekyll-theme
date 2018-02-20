@@ -4,8 +4,8 @@ subtitle: Develop personal wellness goals and benefit from 24/7 support
 layout: default
 modal-id: 3
 date: 2014-07-28
-img: running.jpg
-thumbnail: running.jpg
+img: carley.jpeg
+thumbnail: carley.jpeg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
