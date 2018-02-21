@@ -10,20 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: "
-<p>M. S. Nutrition for Wellness, ACSM certified Exercise Physiologist and 200-hour Certified Yoga Instructor</p>
-<h3>Nutrition Coaching</h3>
-<p>Sponsorship for individuals who are working toward implementing a healthy and sustainable diet. This is achieved in different ways depending on the client, who will play the central role in determining the goals of sponsorship. Carley’s Kitchen supports a coaching model in which the client relies on their own intuition and experience while benefiting from information provided by the coach, as well as the support of a community. All clients will receive access to a network of individuals on their own paths to healing and wellness. This unique network allows clients to immerse themselves in an environment where their nutrition choices are understood, supported, and reinforced, leading to a much greater likelihood of success in achieving dietary goals.</p>
-
-<p><b>50$/hour</b></p>
-
-<h3>Fitness Coaching</h3>
-<p>Sponsorship for clients who are beginning or continuing a fitness program. Clients will benefit from increased accountability and support in developing and adhering to an exercise program that promotes health and wellness. Services include anything from developing a workout schedule to being a running buddy; whatever best-serves the client and helps them stay motivated and be successful maintaining an active lifestyle.</p>
-
-<p><b>50$/hour</b></p>
-
-"
-
 ---
 
-
+As an MS in Nutrition for Wellness, American College of Sports Medicine Certified Exercise Physiologist (EP-C) and Yoga Alliance Registered 200-hour Yoga Teacher, I am capable of providing nutrition and fitness support through a variety of modalities. I have provided nutrition consultations and fitness coaching to individual clients with backgrounds ranging from busy working professionals to high-intensity athletes. I strongly believe in our innate ability to live healthy, productive lives and am experienced in providing support and encouragement for clients so that they can feel great and live life to the fullest. Whether you are seeking guidance on nutrition and healthy eating or hoping to optimize your workouts, Carley’s Kitchen can provide custom plans and step-by-step guidance as you work toward achieving your fitness goals. Simply set up an appointment today to take the first steps toward success!
