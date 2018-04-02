@@ -6,7 +6,7 @@ subtitle: >-
   support their health through delicious home-cooked meals.
 layout: default
 modal-id: 5
-date: {}
+date: 2014-07-29
 img: vegetables.jpg
 thumbnail: vegetables.jpg
 alt: image-alt
