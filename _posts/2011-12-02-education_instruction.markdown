@@ -23,3 +23,26 @@ Whether you are starting from scratch or hoping to build on your current culinar
 
 
 Instruction can be provided within the convenience of your own kitchen or at a cooking venue of your choice. The instructor will provide any supplemental equipment necessary for an exceptional culinary experience. Contact our kitchen today to develop a specialized lesson plan or simply schedule a fun class for you and your friends!!
+
+<div class="image-gallery">
+  <img src="img/cooking-instruction/1.jpg" alt="">
+  <img src="img/cooking-instruction/2.jpg" alt="">
+  <img src="img/cooking-instruction/3.jpg" alt="">
+  <img src="img/cooking-instruction/4.jpg" alt="">
+  <img src="img/cooking-instruction/5.jpg" alt="">
+  <img src="img/cooking-instruction/6.jpg" alt="">
+  <img src="img/cooking-instruction/7.jpg" alt="">
+  <img src="img/cooking-instruction/8.jpg" alt="">
+  <img src="img/cooking-instruction/9.jpg" alt="">
+  <img src="img/cooking-instruction/10.jpg" alt="">
+  <img src="img/cooking-instruction/11.jpg" alt="">
+  <img src="img/cooking-instruction/12.jpg" alt="">
+</div>
+
+<div id="tjm" class="tjm">
+  <div  class="tjm-c">
+    <span onclick="tjmClose()" onKeyPress="tjmClose()" title="Close" class="tjm-cb" role="button" tabindex="0">Close</span>
+    <!-- Your content goes here -->
+    <div id="tjm-inner-content"></div>
+  </div>
+</div>

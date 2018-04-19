@@ -939,3 +939,56 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
+
+.headshot {
+    margin-bottom: 20px;
+    height: 400px;
+    overflow: hidden;
+}
+
+.headshot > img {
+    width: 100%;
+    position: relative;
+    top: -50px;
+}
+
+@media (min-width: 500px) {
+    .headshot {
+        width: 35%;
+        height: auto;
+        float: left;
+        margin: 0 25px 20px 0;
+        padding-top: 8px;
+    }
+
+    .headshot > img {
+        top: 0;
+    }
+}
+
+@media (min-width: 1200px) {
+    .headshot {
+        margin: 0 30px 20px 0;
+    }
+}
+
+.image-gallery > img {
+    max-width: 100%;
+}
+
+@media (min-width: 768px) {
+    .image-gallery > img {
+        max-width: 32%;
+    }
+}
+
+.tjm .tjm-c {
+    max-width: 90%;
+    width: auto;
+}
+
+.tjm .tjm-c img {
+    max-width: 100%;
+    margin-bottom: 0;
+    padding-top: 10px;
+}

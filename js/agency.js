@@ -35,3 +35,14 @@ $('div.modal').on('show.bs.modal', function() {
 		}
 	}
 });
+
+$(function() {
+    $('.image-gallery > img').on('click', function() {
+        $tjm = $('#tjm-inner-content');
+
+        $tjm.html($(this).clone());
+
+        tjmOpen();
+    });
+});
+
