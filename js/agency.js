@@ -44,5 +44,11 @@ $(function() {
 
         tjmOpen();
     });
-});
 
+    $(document).on('keydown', function(e) {
+        var tjmOpen = $('#tjm').hasClass('tjm-o');
+        if (e.which === 27 && tjmOpen) {
+            tjmClose();
+        }
+    });
+});

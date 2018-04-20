@@ -38,11 +38,3 @@ Instruction can be provided within the convenience of your own kitchen or at a c
   <img src="img/cooking-instruction/11.jpg" alt="">
   <img src="img/cooking-instruction/12.jpg" alt="">
 </div>
-
-<div id="tjm" class="tjm">
-  <div  class="tjm-c">
-    <span onclick="tjmClose()" onKeyPress="tjmClose()" title="Close" class="tjm-cb" role="button" tabindex="0">Close</span>
-    <!-- Your content goes here -->
-    <div id="tjm-inner-content"></div>
-  </div>
-</div>

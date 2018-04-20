@@ -16,3 +16,9 @@ Yes, it’s true, I love to eat healthy. While completing my Masters of Science 
 I believe that food is the foundation of health and wellness, and thus am honored to have the opportunity to cook for my clients and their loved ones. Whether you are seeking the perfect meal for a special occasion or a break from the burden of cooking regularly for your family, Carley’s Kitchen is here to help! I also offer meal planning and preparation services. I work closely with clients to design custom weekly meal plans that support all your nutritional needs. Food can be made fresh and pre-packed so you are prepared and properly energized for the work week.
 
 Creating incredible food to share with others is my greatest passion. Reach out today to let me know how I can cook for you!
+
+<div class="image-gallery">
+  <img src="img/salad/1.jpg" alt="">
+  <img src="img/salad/4.jpg" alt="">
+  <img src="img/salad/5.jpg" alt="">
+</div>
