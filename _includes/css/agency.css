@@ -996,3 +996,14 @@ body {
     margin-bottom: 0;
     padding-top: 10px;
 }
+
+.facebook-link {
+    font-size: 20px;
+    padding-top: 30px;
+    display: block;
+    text-shadow: 0 1px 5px black;
+}
+
+.contact__facebook-link {
+    text-align: center;
+}
