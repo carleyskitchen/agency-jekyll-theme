@@ -4,8 +4,8 @@ subtitle: I create plant-powered dishes inspired by fresh, seasonal, and local i
 layout: default
 modal-id: 6
 date: 2014-07-30
-img: full_fridge.jpg
-thumbnail: full_fridge.jpg
+img: prep.jpg
+thumbnail: prep.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
@@ -18,7 +18,16 @@ I believe that food is the foundation of health and wellness, and thus am honore
 Creating incredible food to share with others is my greatest passion. Reach out today to let me know how I can cook for you!
 
 <div class="image-gallery">
-  <img src="img/salad/1.jpg" alt="">
-  <img src="img/salad/4.jpg" alt="">
-  <img src="img/salad/5.jpg" alt="">
+  <img src="img/meal-planning/1.jpg" alt="">
+  <img src="img/meal-planning/4.jpg" alt="">
+  <img src="img/meal-planning/5.jpg" alt="">
+  <img src="img/meal-planning/3.jpg" alt="">
+  <img src="img/meal-planning/img-1111.jpg" alt="">
+  <img src="img/meal-planning/img-1112.jpg" alt="">
+  <img src="img/meal-planning/img-1113.jpg" alt="">
+  <img src="img/meal-planning/img-1114.jpg" alt="">
+  <img src="img/meal-planning/img-1115.jpg" alt="">
+  <img src="img/meal-planning/img-1116.jpg" alt="">
+  <img src="img/meal-planning/img-1117.jpg" alt="">
+  <img src="img/meal-planning/img-1118.jpg" alt="">
 </div>

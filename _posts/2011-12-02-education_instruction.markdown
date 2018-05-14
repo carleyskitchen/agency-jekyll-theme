@@ -7,8 +7,8 @@ subtitle: >-
 layout: default
 modal-id: 5
 date: 2014-07-29
-img: vegetables.jpg
-thumbnail: vegetables.jpg
+img: pasta.jpg
+thumbnail: pasta.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
