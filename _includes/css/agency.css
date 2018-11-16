@@ -1021,3 +1021,19 @@ body {
 .contact__facebook-link {
     text-align: center;
 }
+
+.partners__header {
+    margin-bottom: 60px;
+}
+
+.partner {
+    margin-bottom: 60px;
+}
+
+.partner:last-child {
+    margin-bottom: 0;
+}
+
+.partner img {
+    height: 120px;
+}
